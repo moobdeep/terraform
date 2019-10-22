@@ -1,2 +1,4 @@
 .terraform/*
 terraform.*
+.terraform/plugins/linux_amd64/terraform-provider-aws_v2.33.0_x4
+.terraform/plugins/linux_amd64/lock.json
